@@ -1,0 +1,11 @@
+{
+  "name": "sensor-app",
+  "version": "1.0.0",
+  "description": "aplicación que mandará los datos del sensor al serviddor correspondiente",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Benjamin Peña Snow",
+  "license": "ISC"
+}
