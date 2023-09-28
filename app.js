@@ -21,6 +21,8 @@ const getDate = () => {
     return date.toUTCString();
 };
 
+
+
 // Función que genera los datos deseados cada 15 minutos y los manda al servidor
 
 // 15 min = 900000 ms
